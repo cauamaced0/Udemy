@@ -1,0 +1,25 @@
+{
+  "name": "node_js-rocketz",
+  "version": "1.0.0",
+  "description": "começando a revisar node js do zero",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauamaced0/Udemy.git"
+  },
+  "author": "cauamaced0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cauamaced0/Udemy/issues"
+  },
+  "homepage": "https://github.com/cauamaced0/Udemy#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
